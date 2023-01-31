@@ -1,6 +1,4 @@
-﻿using IndianStateCensusAnalyserProblem;
-
-namespace Indian_States_Census_Analyzer_Problem
+﻿namespace Indian_States_Census_Analyzer_Problem
 {
     public class CSVAdapterFactory
     {
